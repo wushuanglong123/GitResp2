@@ -1,0 +1,1 @@
+创建New2.txt，测试删除管理Windows凭据后能否push成功
